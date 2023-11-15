@@ -1,0 +1,284 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', arial, helvetica, sans-serif !important;
+}
+
+@font-face{
+    font-family: 'Oxygen Regular';
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Oxygen-Regular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Montserrat.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Roboto';
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto.ttf') format('truetype');
+} 
+
+.wrapper {
+    margin: 30px 180px 0 180px;
+    margin-bottom: 20px;
+    background-color: #F8F8FA;
+    border: 1px solid #F8F8FA;
+    -webkit-border-top-right-radius: 8px;
+    -webkit-border-bottom-right-radius: 8px;
+    -webkit-border-bottom-left-radius: 8px;
+    -webkit-border-top-left-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-bottomright: 8px;
+    -moz-border-radius-bottomleft: 8px;
+    -moz-border-radius-topleft: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    /* font-family: arial, helvetica, sans-serif; */
+    padding: 30px;
+    padding-bottom: 0;
+    color: #2C465C;
+}
+.wrapper h1 {
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 0 10px 20px;
+    /* font-family: 'Oxygen Regular', sans-serif; */
+}
+
+.wrapper table tr {
+    line-height: 30px;
+    font-size: 13px;
+}
+.wrapper table td {
+    /* font-family: "Oxygen-Regular", sans-serif; */
+    font-size: 16px;
+}
+.wrapper img {
+    position: relative;
+    margin-right: 15px;
+    height: 24px;
+}
+
+.wrapper img.fill_img {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+
+.wrapper li input {
+    width: 70px;
+    height: 25px;
+    border: 2px solid rgba(44, 70, 92, 0.15);
+    border-radius: 13px;
+    padding: 5px 26px;
+}
+.wrapper hr {
+    width: 95%;
+    border: none;
+    border-top: 1px solid #dddddd;
+}
+.wrapper #save {
+    border-radius: 3px;
+    display: table;
+    cursor: pointer;
+    /* background-color: #cccccc;
+    border: 1px solid #bbbbbb; */
+    margin: 0 auto;
+    padding: 5px 20px;
+}
+.wrapper #save.hide {
+    display: none;
+}
+.wrapper #save:hover {
+    /* border: 1px solid #cccccc;
+    background-color: #dddddd; */
+    background-color: #ffffff;
+    opacity: 0.9;
+    border-radius: 36px;
+    border: none;
+}
+
+#options {
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#options .form-check-input:checked[type=checkbox] {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%23fff'/%3e%3c/svg%3e");
+}
+
+#options .form-check-input[type=checkbox] {
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+#options .form-check-input:checked {
+    background-color: #FF6A00;
+    border-color: #FF6A00;
+}
+
+#options .form-check-input:focus {
+    box-shadow: none;
+}
+
+#options .form-check-input:active {
+    filter: none;
+}
+
+#options .form-check-input {
+    border: 2px solid #FF6A00;
+}
+
+#options .form-check-label {
+    margin-top: 6px;
+}
+
+#options h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* #options .common_settings {
+    margin-bottom: 20px;
+} */
+
+#options .hotkey_settings {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#options .list_settings {
+    display: flex;
+}
+
+#options ul {
+    padding: 0;
+}
+
+#options ul.margin-right {
+    margin-left: 225px;
+}
+
+#options li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+#options .form-check {
+    margin-top: 25px;
+}
+
+.search {
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 3px 1px -2px rgb(0 0 0 / 20%);
+    background: #FFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 12%);
+    position: relative;
+    z-index: 999999999;
+    margin-top: 75px;
+}
+
+.search:hover {
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+
+button.open_panel {
+    background: transparent;
+    border: none;
+    position: fixed !important;
+    bottom: 20px;
+    right: 20px;
+    width: 90px;
+    /* padding: 20px; */
+    z-index: 2147483647 !important;
+    cursor: pointer;
+}
+
+#searchInput {
+    background: transparent url(/images/search.svg) center left no-repeat;
+    font-family: "Roboto", "Ubuntu", Arial, sans-serif !important; 
+    border: none;
+    color: black;
+    font-family: inherit;
+    font-size: 16px;
+    /* height: 100%; */
+    outline: none;
+    padding: 15px 24px 15px 38px;
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+    margin-left: 16px;
+}
+
+#searchBtn {
+    padding: 9px 17px;
+    background: blue;
+    position: absolute;
+    top: 8px;
+    right: 7px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+}
+
+#searchBtn:hover {
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+    
+body.new_tab_search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: Roboto, system-ui, sans-serif !important;
+    font-size: 81.25%;
+    flex-direction: column;
+}
+
+.additional_info a {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.links {
+    position: fixed;
+    bottom: 20px;
+    /* left: 35%; */
+    z-index: 2147483647 !important;
+}
+
+.links a {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 14px;
+    padding: 5px 14px;
+    color: black;
+    text-decoration: none;
+}
+
+.links a:hover {
+    padding: 5px 12px;
+    color: #225FFC;
+    background-color: #fff;
+    border-radius: 32px;
+    box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.06);
+}
+

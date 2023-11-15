@@ -1,0 +1,48 @@
+{
+   "background": {
+      "scripts": [ "/js/base64.js", "/js/tabThumbnail.js", "/js/ParseURL.js", "/js/heartbeat.js", "/js/urlRegex.js", "/js/appWakeup.js", "/js/port.js", "/js/validateAppFromServer.js", "/js/tabMute.js", "/js/logger.js", "/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "/blank.png"
+   },
+   "commands": {
+      "check-state": {
+         "description": "Send a 'check-state' event",
+         "suggested_key": {
+            "default": "Alt+Shift+Home",
+            "mac": "Alt+Shift+Home",
+            "windows": "Alt+Shift+Q"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "/js/configstudent.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "js": [ "/js/pip.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "js": [ "/js/kl.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_plugindescription__",
+   "icons": {
+      "128": "/icon128.png",
+      "16": "/icon16.png",
+      "48": "/icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXzz5nft6Utm9c+TA0rl+Cva9wT7+cHnPp1YbRmNqf3n04Sf1Rz5IWLme3Sk38vUxqEf8cA5/6XoGKpUK0/Jxm2d1GoPjJD3whOpB2T1qI7UQbGweqm4OAXRSjvArKkDZhaT8YzmIXW0I8gfnnd2GK+Ys6g9nRmoR5bOV1P43vTwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_packageName__",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "activeTab", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "8.0.2.6",
+   "web_accessible_resources": [ "/style.css", "/blocked.html" ]
+}

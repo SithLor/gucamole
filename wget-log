@@ -1,0 +1,6 @@
+--2023-11-08 22:19:34--  https://clients2.google.com/service/update2/crx?response=redirect
+Resolving clients2.google.com (clients2.google.com)... 142.250.217.142, 2607:f8b0:4007:818::200e
+Connecting to clients2.google.com (clients2.google.com)|142.250.217.142|:443... connected.
+HTTP request sent, awaiting response... 204 No Content
+2023-11-08 22:19:34 (0.00 B/s) - ‘crx?response=redirect’ saved [0]
+

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/options.css" />
+    <link rel="stylesheet" type="text/css" href="css/main.min.css" />
+    <script src="/libs/jquery.js"></script>
+    <script type="text/javascript" src="./bundle.js" async></script>
+    <link rel="stylesheet" type="text/css" href="./bundle.css" />
+</head>
+<body id="new_tab" class="new_tab_search">
+  <a id="google_apps" title="Google apps">
+    <img src="images/apps_icon.svg">
+  </a>
+  <div>
+    <div class="search additionalInputSearch">
+      <input id="searchInput" placeholder="Search or type a URL"/>
+      <button id="searchBtn">Search</button>
+    </div>
+  </div>
+  <div id="shortcut_wrapper">
+  </div>
+  <button class="open_panel" style="display: none;">
+    <img src="images/icon_wp_nt.svg">
+  </button>
+  <div class="mdc-dialog">
+    <div class="mdc-dialog__container">
+      <div class="mdc-dialog__surface nt_dialog_wrapper"
+        role="alertdialog"
+        aria-modal="true"
+        aria-labelledby="my-dialog-title"
+        aria-describedby="my-dialog-content">
+        <div class="mdc-dialog__content nt_dialog_content" id="my-dialog-content">
+          Add shortcut
+        </div>
+        <div class="input_data">
+          <span class="mdc-floating-label" id="username-label">Name</span>
+          <label class="mdc-text-field mdc-text-field--filled username">
+            <span class="mdc-text-field__ripple"></span>
+            <input type="text" id="nt_input_name" class="mdc-text-field__input" aria-labelledby="username-label" name="username">
+            <span class="mdc-line-ripple"></span>
+          </label>
+          <span class="mdc-floating-label" id="password-label">URL</span>
+          <label class="mdc-text-field mdc-text-field--filled password">
+            <span class="mdc-text-field__ripple"></span>
+            <input type="text" id="nt_input_url" class="mdc-text-field__input" aria-labelledby="password-label" name="password">
+            <span class="mdc-line-ripple"></span>
+          </label>
+        </div>
+        <div class="mdc-dialog__actions">
+          <button type="button" id="nt_cancel_btn" class="mdc-button mdc-dialog__button" data-mdc-dialog-action="cancel">
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">Cancel</span>
+          </button>
+          <button type="button" id="nt_done_btn" class="mdc-button mdc-dialog__button" data-mdc-dialog-action="discard" disabled>
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">Done</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="mdc-dialog__scrim"></div>
+  </div>
+  <div id="apps_wrapper" class="mdc-card" style="display: none;">
+  </div>
+  <div class="links">
+      <a href="https://home.web-paint.com/privacy" target="_blank">Privacy Policy</a>
+      <a href="https://home.web-paint.com/contact_us" target="_blank">Contact Us</a>
+      <a href="https://home.web-paint.com/tou" target="_blank">Terms of Use</a>
+      <a href="https://home.web-paint.com/about_us" target="_blank">About Us</a>
+  </div>
+  <script type="text/javascript" src="js/inject.js"></script>
+</body>
+</html>

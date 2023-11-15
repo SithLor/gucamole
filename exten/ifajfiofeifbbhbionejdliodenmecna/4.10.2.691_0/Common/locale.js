@@ -1,0 +1,1 @@
+window.cwe=window.cwe||{};(function(b){const c={US:"en-US",UK:"en-GB",BE:"en-GB",CAN:"en-US",FR:"fr-FR",SPA:"es-ES",GER:"de-DE"};b.localeLang=function(d,a){a=c[a];!d&&a&&(a=a.split("-")[0]);return a};b.localeMap=function(){return c}})(window.cwe.locale=window.cwe.locale||{});

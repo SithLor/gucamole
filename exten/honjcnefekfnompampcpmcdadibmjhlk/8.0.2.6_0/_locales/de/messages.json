@@ -1,0 +1,74 @@
+{
+   "END": {
+      "description": "none",
+      "message": "EndOfLocalStrings"
+   },
+   "Version": {
+      "description": "Version of the extension",
+      "message": "7.7.4.2"
+   },
+   "VersionTitle": {
+      "description": "Version of the extension",
+      "message": "Version: "
+   },
+   "all_blocked_header": {
+      "descripttion": "Message when a website is blocked.",
+      "message": "Alle Websites sind derzeit blockiert."
+   },
+   "available_websites": {
+      "description": "Header for the list of available websites.",
+      "message": "Verfügbare Website-Informationen: "
+   },
+   "blocked_ipaddress": {
+      "description": "Header for the list of available websites.",
+      "message": "IP-Adresse blockiert"
+   },
+   "blocked_website": {
+      "description": "Header for the list of available websites.",
+      "message": "Die Website ist gesperrt."
+   },
+   "packageName": {
+      "description": "Name of the installed package",
+      "message": "LanSchool Web Helper"
+   },
+   "packageNameBeta": {
+      "description": "Name of the installed package",
+      "message": "LanSchool Web Helper BETA"
+   },
+   "packageNameBeta2": {
+      "description": "Name of the installed package",
+      "message": "LanSchool Web Helper BETA 2"
+   },
+   "packageNameBeta3": {
+      "description": "Name of the installed package",
+      "message": "LanSchool Web Helper BETA 3"
+   },
+   "page_blocked_available_title": {
+      "descripttion": "Title for the list of available web sites",
+      "message": "Verfügbare Seiten - "
+   },
+   "page_blocked_header": {
+      "descripttion": "Message when a website is blocked.",
+      "message": "Die Website ist gesperrt."
+   },
+   "page_blocked_header_allowed": {
+      "descripttion": "Message when a website is blocked but some sites are allowed.",
+      "message": "Folgende Websites sind zulässig: "
+   },
+   "page_blocked_title": {
+      "descripttion": "Title for the list of available web sites",
+      "message": "Die Website ist gesperrt. - "
+   },
+   "plugindescription": {
+      "description": "Descriptions of the installed package.",
+      "message": "Helps your teacher maintain a great learning environment."
+   },
+   "product_name": {
+      "dscription": "Product name",
+      "message": "LanSchool"
+   },
+   "web_limited": {
+      "description": "Message to student that web limiting is in effect.",
+      "message": "Das Browsen im Internet derzeit beschränkt."
+   }
+}

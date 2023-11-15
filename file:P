@@ -1,0 +1,46 @@
+https://extensions.securly.com/extensions.xml
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+<script>window._wordtune_extension_installed = true;</script>
+<app appid="nldffgleokocdcddeocjmdgneoinbhfb">
+<updatecheck codebase="https://extensions.securly.com/crextn_client_think_twice_2.98.0.0.crx" version="2.98.0.0"/>
+</app>
+<app appid="hgpppmjalkmcmloikkbmonbpdakcklfp">
+<updatecheck codebase="https://extensions.securly.com/chrome_browser_think_twice_2.98.0.0.crx" version="2.98.0.0"/>
+</app>
+<app appid="bjnmaaglmedeickpbmlhmjkndenggend">
+<updatecheck codebase="https://extensions.securly.com/edge_browser_think_twice_2.98.0.0.crx" version="2.98.0.0"/>
+</app>
+<app appid="khfcjmoagjdbcchabenkohfbllefkbei">
+<updatecheck codebase="https://extensions.securly.com/crextn_client_MV3_2.98.0.0.crx" version="2.98.0.0"/>
+</app>
+<app appid="lcgajdcbmhepemmlpemkkpgagieehmjp">
+<updatecheck codebase="https://extensions.securly.com/chrome_browser_production_2.98.56.crx" version="2.98.56"/>
+</app>
+<app appid="joflmkccibkooplaeoinecjbmdebglab">
+<updatecheck codebase="https://extensions.securly.com/crextn_client_production_2.98.55.0.crx" version="2.98.55.0"/>
+</app>
+<app appid="hgmfginomehjpgpacpjnjaijecknnaog">
+<updatecheck codebase="https://extensions.securly.com/crextn_client_beta_2.98.50.0.crx" version="2.98.50.0"/>
+</app>
+<app appid="ehpfmanenigliflmbaiihbppncilhaha">
+<updatecheck codebase="https://extensions.securly.com/chrome_browser_beta_2.98.50.0.crx" version="2.98.50.0"/>
+</app>
+<app appid="adncfiefnfjddkdlfcckejoefaoehcdf">
+<updatecheck codebase="https://extensions.securly.com/edge_browser_beta_2.98.56.0.crx" version="2.98.56.0"/>
+</app>
+<app appid="knneimmpeamikmjijmnhjmmobddleohj">
+<updatecheck codebase="https://extensions.securly.com/crextn_client_FILTER-3880_beta_2.98.61.0.crx" version="2.98.61.0"/>
+</app>
+<app appid="cppgiodhimhhljofjomebpcgliegpddd">
+<updatecheck codebase="https://extensions.securly.com/edge_browser_FILTER-3880_beta_2.98.61.0.crx" version="2.98.61.0"/>
+</app>
+<app appid="pmjdkmdfhcbecicgaenammmpamphljpe">
+<updatecheck codebase="https://extensions.securly.com/chrome_browser_windows_FILTER-3880_beta_2.98.61.0.crx" version="2.98.61.0"/>
+</app>
+</gupdate>"
+
+["jhnhfnolmcleankdkhfklakpchnccipg;https://clients2.google.com/service/update2/crx","ppkkplnhefiifjmgokbhhjebbddhiipf;https://clients2.google.com/service/update2/crx","aegncgclooioopaiieldjbmconbcdefh;https://clients2.google.com/service/update2/crx","dikiaagfielfbnbbopidjjagldjopbpa;https://crx.clever.com/updates","ifajfiofeifbbhbionejdliodenmecna;https://clients2.google.com/service/update2/crx","jfbecfmiegcjddenjhlbhlikcbfmnafd;https://deviceconsole.securly.com/dist/chrome/n.xml","nopfnnpnopgmcnkjchnlpomggcdjfepo;https://clients2.google.com/service/update2/crx","cgbbbjmgdpnifijconhamggjehlamcif;https://clients2.google.com/service/update2/crx","knneimmpeamikmjijmnhjmmobddleohj;https://extensions.securly.com/extensions.xml","mfhehppjhmmnlfbbopchdfldgimhfhfk;https://clients2.google.com/service/update2/crx","ondcgjblmdblfnmdeoeebaemlckomedj;https://clients2.google.com/service/update2/crx"]
+
+["jhnhfnolmcleankdkhfklakpchnccipg;https://clients2.google.com/service/update2/crx","ppkkplnhefiifjmgokbhhjebbddhiipf;https://clients2.google.com/service/update2/crx","aegncgclooioopaiieldjbmconbcdefh;https://clients2.google.com/service/update2/crx","dikiaagfielfbnbbopidjjagldjopbpa;https://crx.clever.com/updates","ifajfiofeifbbhbionejdliodenmecna;https://clients2.google.com/service/update2/crx","jfbecfmiegcjddenjhlbhlikcbfmnafd;https://deviceconsole.securly.com/dist/chrome/n.xml","nopfnnpnopgmcnkjchnlpomggcdjfepo;https://clients2.google.com/service/update2/crx","cgbbbjmgdpnifijconhamggjehlamcif;https://clients2.google.com/service/update2/crx","knneimmpeamikmjijmnhjmmobddleohj;https://extensions.securly.com/extensions.xml","mfhehppjhmmnlfbbopchdfldgimhfhfk;https://clients2.google.com/service/update2/crx","mloajfnmjckfjbeeofcdaecbelnblden;https://clients2.google.com/service/update2/crx","ondcgjblmdblfnmdeoeebaemlckomedj;https://clients2.google.com/service/update2/crx"]
+
+["mloajfnmjckfjbeeofcdaecbelnblden","dncgedbnidfkppmdgfgidcepclnokpkb","iodihamcpbpeioajjeobimgagajmlibd","jhnhfnolmcleankdkhfklakpchnccipg","ppkkplnhefiifjmgokbhhjebbddhiipf","aapbdbdomjkkjkaonfhkkikfgjllcleb","afpbjjgbdimpioenaedcjgkaigggcdpp","bgdpkilkheacbboffppjgceiplijhfpd","bhdheahnajobgndecdbggfmcojekgdko","bhggmehigifnpflipbkdfcjiacpcgidn","bkpenclhmiealbebdopglffmfdiilejc","bohahkiiknkelflnjjlipnaeapefmjbh","bpconcjcammlapcogcnnelfmaeghhagj","cjpalhdlnbpafiamejdnhcphjbkeiagm","ckmbkodkbmkmdjdimeiddeljndcneifo","dehajjkfchegiinhcmoclkfbnmpgcahj","dikiaagfielfbnbbopidjjagldjopbpa","ecnphlgnajanjnkcmbpancdjoidceilk","eebnbmbhdfnfhfhigoklhaklkodghbla","ejidjjhkpiempkbhmpbfngldlkglhimk","emeokgokialpjadjaoeiplmnkjoaegng","fdpohaocaechififmbbbbbknoalclacl","fhggacdeldojnpbgknpipalghlkbcimk","fljalecfjciodhpcledpamjachpmelml","fmlboobidmkelggdainpknloccojpppi","fnhgfoccpcjdnjcobejogdnlnidceemb","gbkeegbaiigmenfmjfclcdgdpimamgkj","gdbabpaggdgcakhjllleobffeghmhjme","ghbmnnjooekpmoecnnnilnnbdlolhkhi","gmbmikajjgmnabiglmofipeabaddhgne","hcgajcpgaalgpeholhdooeddllhedegi","hdhinadidafjejdhmfkjgnolgimiaplp","hfhhnacclhffhdffklopdkcgdhifgngh","hlccdhlihfddoncokklgmhmijmpdmenb","hnbmpkmhjackfpkpcbapafmpepgmmddc","idkloemkmldbemijiamdiolojbffnjlh","ifajfiofeifbbhbionejdliodenmecna","igloknlllonknnbkfgggfkigmeegmakf","ijnjlojbdhgpamjiflocklhfeciokfdl","jfbecfmiegcjddenjhlbhlikcbfmnafd","jjmflmamggggndanpgfnpelongoepncg","kbfnbcaeplbcioakkpcpgfkobkghlhen","klbibkeccnjlkjkiokjodocebajanakg","knibbpmgfkaginjkddpmmpcnknegecok","laankejkbhbdhmipfmgcngdelahlfoji","lfhlekccjamfkfmjgnpbdjpecanfbjkl","lpcaedmchfhocbbapmcbpinfpgnhiddi","mbniclmhobmnbdlbpiphghaielnnpgdp","mclkkofklkfljcocdinagocijmpgbhab","mgijmajocgfcbeboacabfgobmjgjcoja","mmeijimgabbpbgpdklnllpncmdofkcpn","ndjpnladcallmjemlbaebfadecfhkepb","nlipoenfbbikpbjkfpfillcgkoblgpmj","nopfnnpnopgmcnkjchnlpomggcdjfepo","ohlencieiipommannpdfcmfdpjjmeolj","oipimoeophamdcmjcfameoojlbhbgjda","okimpmfnmbjbaciaeaikdiecpobfomfh","oknpjjbmpnndlpmnhmekjpocelpnlfdi","oligonmocnihangdjlloenpndnniikol","pflionopdgpjckjkafnlamfmonjhccdh","aeblfdkhhhdcdjpifhhbdiojplfjncoa","ajanlknhcmbhbdafadmkobjnfkhdiegm","ajphlblkfpppdpkgokiejbjfohfohhmk","alhngdkjgnedakdlnamimgfihgkmenbh","apmicgkbejflkgeljipcebaoeigmangd","baleiojnjpgeojohhhfbichcodgljmnj","bhloflhklmhfpedakmangadcdofhnnoh","bjkegbgpfgpikgkfidhcihhiflbjgfic","blljobffcekcbopmkgfhpcjmbfnelkfg","cdnapgfjopgaggbmfgbiinmmbdcglnam","cfhdojbkjhnklbpkdaibdccddilifddb","cgbbbjmgdpnifijconhamggjehlamcif","cmeclblmdmffdgpdlifgepjddoplmmal","compdaiogbfdpildfbleipdcglmmlojo","dakebdbeofhmlnmjlmhjdmmjmfohiicn","defhgdcldhhmoenjjpaiekkenhnbledj","dnloadmamaeibnaadmfdfelflmmnbajd","efadmbnnoammocppapaojgggfdnelmde","efaidnbmnnnibpcajpcglclefindmkaj","eimadpbcbfnmbkopoojfekhnkhdbieeh","fnplhdldnhaodknidfddmkfdhlhjihpd","fogjeanjfbiombghnmkmmophfeccjdki","gcoekeoenehjmndhkdnoomdjeaclkhbe","gngadipbljmmcgcjjflidckpbgebnhod","hjngolefdpdnooamgdldlkjgmdcmcjnc","hkgfoiooedgoejojocmhlaklaeopbecg","hmbjbjdpkobdjplfobhljndfdfdipjhg","hmffdimoneaieldiddcmajhbjijmnggi","honjcnefekfnompampcpmcdadibmjhlk","jcniengahojdlgoaicpcafddpedbknnn","jeehnidbmlhpkncbplipfalpjkhlokaa","jlchfbgflflmmcoeagcmfkhlmbofojbm","jlhmfgmfgeifomenelglieieghnjghma","joodangkbfjnajiiifokapkpmhfnpleo","kgjfgplpablkjnlkjmjdecgdpfankdle","knneimmpeamikmjijmnhjmmobddleohj","liecbddmkiiihnedobmlmillhodjkdmb","lmjegmlicamnimmfhcmpkclmigmmcbeh","lpofefdiokgmcdnnaigddelnfamkkghi","nijejdnikeoaldbcboagjlibadkabiae","nlbkibinmokcmlplcghbhhnkiemefmcm","nnajoiemfpldioamchanognpjmocgkbg","npoipmeppdioagbkigdlnpmjphnolaog","oikgofeboedgfkaacpfepbfmgdalabej","okgjbfikepgflmlelgfgecmgjnmnmnnb","pcgjkiiepdbfbhcddncidopmihdekemj","pembccdigcahnckbjcbehhcacplbbomj"]
