@@ -1,3 +1,0 @@
-window.dji=window.dji||{};
-(async function(c){function f(a){window.navigator.permissions.query({name:"microphone"}).then(function(d){a(d)})}let b=null,e=new EventTarget;c.addEventListener=function(a,d){e.addEventListener(a,d)};c.microphonePermissionState=function(){return null===b?"":b.state};c.isMicrophonePermissionGranted=function(){return"granted"===this.microphonePermissionState()};b=await function(){return new Promise(async a=>{f(a)})}();b.addEventListener("change",()=>{e.dispatchEvent(new CustomEvent("mic-permission-state-changed",{detail:{state:b.state}}))})})(window.dji.permissionsController=
-window.dji.permissionsController||{});

@@ -1,11 +1,13 @@
 {
+  "type": "module",
   "dependencies": {
+    "@swc/cli": "^0.1.63",
+    "@swc/core": "^1.3.96",
+    "@types/crypto-js": "^4.2.1",
     "@types/node": "^20.9.0",
     "crypto-js": "^4.2.0",
+    "lua-in-js": "^2.2.2",
     "npm": "^10.2.4",
     "ts-node": "^10.9.1"
-  },
-  "devDependencies": {
-    "@types/crypto-js": "^4.2.1"
   }
 }
