@@ -14,11 +14,8 @@ https://github.com/SithLor?tab=stars
 https://github.com/nathanpeck/clui
 
 esbuild esbuild-wasm ts-node @types/node @types/crypto-js crypto-js
-# For typescript Type 
-__INTERNAL__ Is for for Internal use It Not stable use for write plugins
-__API__ 
 
 
-F2LNW849G5R1
-https://androidfilehost.com/?fid=4279422670115734402
-https://ifrpfileallinone.com/post/sn-register
+
+static anlister for javascript 
+I will not Support Typescript For now I have to Figure out to get to give Type meta With Hackout there complier.
