@@ -6,6 +6,7 @@
     "@types/crypto-js": "^4.2.1",
     "@types/node": "^20.9.0",
     "crypto-js": "^4.2.0",
+    "iced-x86": "^1.20.0",
     "lua-in-js": "^2.2.2",
     "npm": "^10.2.4",
     "ts-node": "^10.9.1",
