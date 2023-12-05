@@ -17,5 +17,8 @@ esbuild esbuild-wasm ts-node @types/node @types/crypto-js crypto-js
 
 
 
-static anlister for javascript 
-I will not Support Typescript For now I have to Figure out to get to give Type meta With Hackout there complier.
+Useful Tool for Rust
+
+
+Planing to Port 
+
