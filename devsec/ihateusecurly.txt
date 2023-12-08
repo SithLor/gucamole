@@ -11,6 +11,12 @@ https://extensions.securly.com/crextn_client_FILTER-3880_beta_2.98.61.0.crx
 https://extensions.securly.com/edge_browser_FILTER-3880_beta_2.98.61.0.crx
 https://extensions.securly.com/chrome_browser_windows_FILTER-3880_beta_2.98.61.0.crx
 
+http://cdn1.securly.com/config.json
+https://www.securly.com/crextn/
+https://www.securly.com/schoollogos/auburn_wednet_logo.png
+    /app/images/blocking-animation.gif
+
+
 crextn_client_think_twice_2.98.0.0.crx
 chrome_browser_think_twice_2.98.0.0.crx
 edge_browser_think_twice_2.98.0.0.crx
