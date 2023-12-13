@@ -37,3 +37,8 @@ npm i -g bun @swc/helpers @swc/jest as-bignum @swc/cli @swc/core @swc/types @typ
 mkdir -p lib
 cd lib
 git clone https://github.com/icedland/iced-cpuid
+
+
+
+
+jshide 

@@ -1,1 +1,0 @@
-Bun.plugin(name:"aes_key", version:"1.0.0", description:"AES key generator", author:"BunTeam", license:"MIT")

